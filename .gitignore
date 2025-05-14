@@ -1,0 +1,10 @@
+# Binary files
+*.exe
+main.exe
+/main
+
+# IDE files
+.idea/
+
+# Go modules
+/vendor/
