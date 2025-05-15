@@ -141,6 +141,16 @@ The project includes comprehensive tests in cache_test.go:
 
 Run `go test` to execute all tests.
 
+## Reflection
+
+For a detailed discussion of what I would do differently or add with more time, please see [Reflection.md](Reflection.md).
+
+This document outlines potential improvements in:
+- Performance enhancements
+- Advanced features
+- Code quality improvements
+- Advanced capabilities
+
 ## Notes
 * The gocache module is local to this repository and does not require external dependencies.
 * The implementation prioritizes simplicity and performance while ensuring thread-safety and proper error handling.
